@@ -1,0 +1,7 @@
+<h2>글쓰기ㅣ!</h2>
+<form action="wrwrwwr.php" id="textwrite">
+이름 : <input type="text"  name="name">
+<br>
+<textarea rows="20" cols="100" name="text">텍스트 입력 공간입니다.</textarea>
+<button type="submit">
+제출은 아직 불가..ㅡㅎㄱ

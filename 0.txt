@@ -1,0 +1,2 @@
+<h2>Makta!</h2>
+<img id="makta" src="다 죽여 줄 테니까.jpg" alt="어디갔서.." title="막타 기여어...">

@@ -1,0 +1,4 @@
+<a href="index.php?id=1">  소개 </a>
+<a href="index.php?id=2"> 공지 </a>
+<a href="index.php?id=3"> 게시판 </a>
+<a href="index.php?id=4"> 사람들 </a>
